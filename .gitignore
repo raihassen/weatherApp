@@ -2,4 +2,5 @@ Podfile
 *.lock
 *.xcodeproj
 *.xcwordspace
-
+*.xcuserstate
+.DS_Store
